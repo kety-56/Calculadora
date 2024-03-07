@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid black;
+    border-radius: 6px black;
+}
+
+button {
+    border: 2px solid gray;
+    margin-bottom: auto;
+    border-radius: 5px;
+    background-color: rgb(237, 232, 232);
+}
+
+.numeros {
+background-color: palevioletred;
+}
+
+.simbolos {
+    background-color: purple;
+}
